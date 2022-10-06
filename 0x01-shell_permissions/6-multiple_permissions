@@ -1,2 +1,2 @@
 #!/bin/bash
-0442 hello
+chmod ug=x,o=r hello
